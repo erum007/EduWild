@@ -1,1 +1,1 @@
-ActinSpace and Technovation Girls Project (Website and Mobile App with Corova)
+ActinSpace and Technovation Girls Project (Website and Mobile App with Cordova)
